@@ -5,3 +5,6 @@ Important Gather:
 1.Complicate Data Extraction by SQL
 
 2.Interactive visualization using pyplot lib
+
+
+Final Mark:
