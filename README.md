@@ -7,4 +7,5 @@ Important Gather:
 2.Interactive visualization using pyplot lib
 
 
-Final Mark:
+Final Mark:78/100
+
