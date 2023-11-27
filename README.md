@@ -6,6 +6,6 @@ Important Gather:
 
 2.Interactive visualization using pyplot lib
 
-
+3.Choose a disease whith specific digital phenotypes, better to use NLP techniques to extract cohort if including texting digital phenotypes. 
 Final Mark:78/100
 
